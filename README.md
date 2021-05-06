@@ -14,6 +14,8 @@
 - layout
   - [activity_main.xml](https://github.com/gzeinnumer/TabLayoutChipStyleV2/blob/master/app/src/main/res/layout/activity_main.xml)
 
+#
+
 - activity_main.xml
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -53,6 +55,8 @@
 
 </LinearLayout>
 ```
+
+#
 
 <p align="center">
   <img src="https://github.com/gzeinnumer/TabLayoutChipStyleV2/blob/master/preview/example1.jpg" width="400"/>
